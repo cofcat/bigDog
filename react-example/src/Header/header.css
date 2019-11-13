@@ -1,0 +1,16 @@
+.header{
+    background-color:#1ae045;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: aliceblue;
+    font-size: 1em;
+}
+.logo{
+    background-color:red;
+    height: 5em;
+    display: flex;
+    color: aliceblue;
+    font-size: 2em;
+}

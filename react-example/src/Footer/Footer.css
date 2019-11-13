@@ -1,0 +1,8 @@
+.footer{
+    background-color:hsla(283, 100%, 50%, 0.24);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: aliceblue;
+    font-size: 2em;
+}
